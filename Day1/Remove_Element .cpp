@@ -7,7 +7,7 @@ int main()
  int n,val;
 	cin >> n;
 
-	vector<int>& nums;
+	vector<int> nums;
     int rem;
 
 	for(int i=0;i<n;i++){
